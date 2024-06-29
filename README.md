@@ -4,7 +4,7 @@
 <img src='/public/Page1.png'>
 <img src='/public/Page2.png'>
 
-<h3>Guide To Run This:</h3><br>
+<h3>Guide To Run This:</h3>
 
 1.> Git Clone https://github.com/RudraSingh05/Stepper-In-React run this in your command line to clone<br>
 2.> npm install to install all the dependencies<br>
