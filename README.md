@@ -1,8 +1,18 @@
-# React + Vite
+# Stepper Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Screenshot
+<img src='/public/Page1.png'>
+<img src='/public/Page2.png'>
 
-Currently, two official plugins are available:
+Guide To Run This:<br><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.> Git Clone https://github.com/RudraSingh05/Stepper-In-React run this in your command line to clone<br>
+2.> npm install to install all the dependencies<br>
+3.> npm install @mantine/core for the MantineUI Cards<br>
+4.> npm run dev to run the development server<br><br>
+
+
+and here you go to use this component<br><br>
+
+
+I hove this will help you
